@@ -1,0 +1,9 @@
+.destaques{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.destaques__barra{
+    flex-grow: 1;
+}
